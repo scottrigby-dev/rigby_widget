@@ -245,7 +245,3 @@ if __name__ == '__main__':
     window = ResizableApp()
     window.show()
     sys.exit(app.exec_())
-
-
-
-sdfsdfsfsfsdfsfsfsfsfdsfdsfg
